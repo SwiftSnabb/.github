@@ -19,7 +19,7 @@
 <h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <div align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=,github,cloudflare,vscode,git,nginx,docker,linux,ubuntu"> 
+<img src="https://skillicons.dev/icons?i=github,cloudflare,vscode,git,nginx,docker,linux,ubuntu"> 
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,express,pug,mysql"/> <br>
 </div>
