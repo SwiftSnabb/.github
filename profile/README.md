@@ -5,16 +5,11 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fraujulian&label=Profile%20views&color=0e75b6&style=flat" alt="fraujulian" /> </p>
-
-<br>
-
 - 🔭 We are currently working on our **API** which include the **TOR Network**.
 - 🤝 We are looking for help in our Team!
 - 🌱 We are develop which **NodeJS**! (**JS**, **TS**)
 
 <br>
-
 
 <h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <div align="center">
