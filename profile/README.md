@@ -6,8 +6,8 @@
 <br>
 
 - 🔭 We are currently working on our **API** which include the **TOR Network**.
-- 🤝 We are looking for help in our Team!
-- 🌱 We are develop which **NodeJS**! (**JS**, **TS**)
+- 🤝 We are looking for help in our **Frontend**/**UX** Team!
+- 🌱 We develop our App with **NodeJS**! (**JS**, **TS**)
 
 <br>
 
