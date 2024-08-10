@@ -47,7 +47,7 @@
 <h2 align="center">📇 Contact 📇</h2>
 
 - ⚠️ abuse@swiftsnabb.net
-- 🫶 support@swiftsnabb.net
+- 🫶 contact@swiftsnabb.net
 - 👨‍💼 business@swiftsnabb.net
 
 <br>
