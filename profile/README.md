@@ -5,9 +5,9 @@
 
 <br>
 
-- 🔭 We are currently working on our **API** which include the **TOR Network**.
-- 🤝 We are looking for help in our **Frontend**/**UX** Team!
-- 🌱 We develop our App with **NodeJS**! (**JS**, **TS**)
+- 🔭 We are currently working on our **Chat application**, which focuses on **security** and **anonymity**.
+- 🤝 We are looking for **Frontend Developer**!
+- 🌱 We develop our App with **NodeJS**! - **HTML**, **CSS**, **JS**, **TS**, **Tauri** [**Nuxt.JS** - **Vue**]
 
 <br>
 
@@ -21,6 +21,16 @@
 
 <br>
 
+<h2 align="center">ℹ️ Contributor/Project Information ℹ️</h2>
+
+- [`Server License`](https://github.com/SwiftSnabb/Snabb-Server/blob/main/LICENSE) <br>
+- [`Server Contributing Guidelines`](https://github.com/SwiftSnabb/Snabb-Server/blob/main/CONTRIBUTING.md) <br>
+
+- [`Client License`](https://github.com/SwiftSnabb/Snabb-Client/blob/main/LICENSE) <br>
+- [`Client Contributing Guidelines`](https://github.com/SwiftSnabb/Snabb-Client/blob/main/CONTRIBUTING.md) <br>
+
+<br>
+
 <h2 align="center">📋 Credits 📋</h2>
 
 ~ [`FrauJulian`](https://github.com/FrauJulian) <br>
@@ -30,7 +40,16 @@
 ~ [`Icy`](https://github.com/icxyz) <br>
 ~ [`Johny`](https://github.com/Boss-Wolfi) <br>
 ~ [`Dome`](https://discord.com/users/1179778095385939970) <br>
+~ [`OhneMimik`](https://github.com/OhneMimik) <br>
 
 <br>
 
-<h3 align="center">More Information on our <a href="https://www.swiftsnabb.net/">website</a>!</h2>
+<h2 align="center">📇 Contact 📇</h2>
+
+- ⚠️ abuse@swiftsnabb.net
+- 🫶 support@swiftsnabb.net
+- 👨‍💼 business@swiftsnabb.net
+
+<br>
+
+<h3 align="center">More Information on our <a href="https://www.swiftsnabb.net/">homepage</a>!</h2>
