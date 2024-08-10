@@ -21,4 +21,16 @@
 
 <br>
 
-<h3 align="center">You can find our contact information on<a href="https://www.anosnabb.net/"> my portfolio website</a>!</h2>
+## 📋 Credits:
+
+~ [`FrauJulian`](https://github.com/FrauJulian). <br>
+~ [`Hugo`](https://github.com/hugo-berendi). <br>
+~ [`DerCoderJo`](https://github.com/DerCoderJo). <br>
+~ [`Lennart`](https://github.com/wpdwdwdsdsadafd). <br>
+~ [`Icy`](https://github.com/icxyz). <br>
+~ [`Johny`](https://github.com/Boss-Wolfi). <br>
+~ [`Dome`](https://discord.com/users/1179778095385939970). <br>
+
+<br>
+
+<h3 align="center">You can find our contact information on<a href="https://www.swiftsnabb.net/">!</a>!</h2>
