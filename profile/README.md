@@ -21,7 +21,7 @@
 
 <br>
 
-## 📋 Credits:
+<h2 align="center">📋 Credits 📋</h2>
 
 ~ [`FrauJulian`](https://github.com/FrauJulian). <br>
 ~ [`Hugo`](https://github.com/hugo-berendi). <br>
