@@ -14,22 +14,22 @@
 <h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <div align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=github,cloudflare,vscode,git,nginx,docker,linux,ubuntu"> 
+<img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,bash,linux,ubuntu"> 
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,express,pug,mysql"/> <br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,tauri,nuxtjs,vue"/> <br>
 </div>
 
 <br>
 
 <h2 align="center">📋 Credits 📋</h2>
 
-~ [`FrauJulian`](https://github.com/FrauJulian). <br>
-~ [`Hugo`](https://github.com/hugo-berendi). <br>
-~ [`DerCoderJo`](https://github.com/DerCoderJo). <br>
-~ [`Lennart`](https://github.com/wpdwdwdsdsadafd). <br>
-~ [`Icy`](https://github.com/icxyz). <br>
-~ [`Johny`](https://github.com/Boss-Wolfi). <br>
-~ [`Dome`](https://discord.com/users/1179778095385939970). <br>
+~ [`FrauJulian`](https://github.com/FrauJulian) <br>
+~ [`Hugo`](https://github.com/hugo-berendi) <br>
+~ [`DerCoderJo`](https://github.com/DerCoderJo) <br>
+~ [`Lennart`](https://github.com/wpdwdwdsdsadafd) <br>
+~ [`Icy`](https://github.com/icxyz) <br>
+~ [`Johny`](https://github.com/Boss-Wolfi) <br>
+~ [`Dome`](https://discord.com/users/1179778095385939970) <br>
 
 <br>
 
