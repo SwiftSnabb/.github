@@ -26,6 +26,8 @@
 - [`Server License`](https://github.com/SwiftSnabb/Snabb-Server/blob/main/LICENSE) <br>
 - [`Server Contributing Guidelines`](https://github.com/SwiftSnabb/Snabb-Server/blob/main/CONTRIBUTING.md) <br>
 
+<br>
+
 - [`Client License`](https://github.com/SwiftSnabb/Snabb-Client/blob/main/LICENSE) <br>
 - [`Client Contributing Guidelines`](https://github.com/SwiftSnabb/Snabb-Client/blob/main/CONTRIBUTING.md) <br>
 
@@ -46,10 +48,9 @@
 
 <h2 align="center">📇 Contact 📇</h2>
 
-- ⚠️ abuse@swiftsnabb.net
+- ⚠️ abuse@fraujulian.xyz
 - 🫶 contact@swiftsnabb.net
-- 👨‍💼 business@swiftsnabb.net
 
 <br>
 
-<h3 align="center">More Information on our <a href="https://www.swiftsnabb.net/">homepage</a>!</h2>
+<h3 align="center">Check out the application on our <a href="https://www.swiftsnabb.net/">homepage</a>!</h2>
